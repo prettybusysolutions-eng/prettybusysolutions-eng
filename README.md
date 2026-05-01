@@ -1,31 +1,36 @@
 # Pretty Busy Solutions
 
-We build verification-first software, operational intelligence systems, and revenue-minded automation.
+Operational systems for high-standard property transitions and professional service execution.
 
-## Flagship projects
-- **AION** — autonomous intelligence and orchestration platform
-- **VerifiAgent** — adversarial verification for AI-generated code and diffs
-- **Context Nexus** — persistent cross-session memory and observability for OpenClaw agents
-- **DenialNet** — claim denial intelligence for revenue recovery
-- **LeakLock** — CSV leak detection SaaS
-- **Adversarial Coder** — verification-first autonomous coding framework
+We build the checklists, controls, verification layers, and delivery infrastructure behind work that has to land cleanly.
 
-## Operating stance
-- Build real systems, not demos
-- Verify before claiming
-- Turn recurring work into reusable infrastructure
-- Focus on software that compounds operational leverage
+## Standard
+- Clear scope
+- Clean handoff
+- Tight verification
+- No loose ends
 
-## Current focus
-- agent infrastructure
-- verification systems
-- revenue recovery tooling
-- memory and orchestration layers
+## What lives here
+- **AION** — orchestration and execution infrastructure
+- **VerifiAgent** — adversarial verification for software delivery
+- **Context Nexus** — persistent operational memory
+- **LeakLock** — forensic visibility for structured data handling
+- **DenialNet** — intelligence systems for revenue-critical workflows
+- **Adversarial Coder** — verification-first coding framework
 
-## Repositories to start with
-- <https://github.com/prettybusysolutions-eng/aion>
-- <https://github.com/prettybusysolutions-eng/verifiagent>
-- <https://github.com/prettybusysolutions-eng/context-nexus>
-- <https://github.com/prettybusysolutions-eng/denialnet>
-- <https://github.com/prettybusysolutions-eng/xzenia-leaklock>
-- <https://github.com/prettybusysolutions-eng/adversarial-coder>
+## Operating principle
+If the work matters, it gets structured.
+If it gets structured, it gets measured.
+If it gets measured, it can be trusted.
+
+## Inbound
+This profile is the operating surface for systems, controls, and execution design.
+
+We engage on:
+- operational infrastructure
+- verification and audit layers
+- workflow hardening
+- transition-sensitive service systems
+
+To route an inquiry or initiate scope:
+**prettybusysolutions@gmail.com**
