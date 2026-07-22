@@ -1,36 +1,37 @@
 # Pretty Busy Solutions
 
-Operational systems for high-standard property transitions and professional service execution.
+Verification-first software, operational intelligence, and revenue-minded automation.
 
-We build the checklists, controls, verification layers, and delivery infrastructure behind work that has to land cleanly.
+We build systems that make messy work auditable: every action should have scope, evidence, ownership, and a clean path back to the decision that authorized it.
 
-## Standard
-- Clear scope
-- Clean handoff
-- Tight verification
-- No loose ends
+## Focus
 
-## What lives here
-- **AION** — orchestration and execution infrastructure
-- **VerifiAgent** — adversarial verification for software delivery
-- **Context Nexus** — persistent operational memory
-- **LeakLock** — forensic visibility for structured data handling
-- **DenialNet** — intelligence systems for revenue-critical workflows
-- **Adversarial Coder** — verification-first coding framework
+- Revenue recovery and operational leakage detection
+- Agent orchestration with approval-gated execution
+- Verification layers for code, workflows, and delivery pipelines
+- Durable memory, provenance, and trust signals
+- Practical automation for high-consequence operating environments
 
-## Operating principle
-If the work matters, it gets structured.
-If it gets structured, it gets measured.
-If it gets measured, it can be trusted.
+## Active Systems
+
+- **AION**: autonomous intelligence and orchestration platform with verification-first execution.
+- **ProofRail**: open runtime authority protocol for autonomous AI actions.
+- **VerifiAgent**: adversarial verification for AI-generated code, diffs, and delivery pipelines.
+- **Context Nexus**: persistent cross-session memory and observability for OpenClaw agents.
+- **Xzenia LeakLock**: proof-bound revenue recovery and autonomous labor airlock artifacts.
+- **DenialNet**: claim denial intelligence for spotting patterns, fixes, and revenue recovery opportunities.
+- **Runtime Doctor**: diagnostics for OpenClaw runtime drift, config faults, and broken execution paths.
+
+## Operating Standard
+
+- No silent mutation of critical systems.
+- No credential or key handling inside automation unless the boundary is explicit.
+- Evidence first, then action.
+- Human approval gates stay visible and testable.
+- Work that matters gets measured, logged, and recoverable.
 
 ## Inbound
-This profile is the operating surface for systems, controls, and execution design.
 
-We engage on:
-- operational infrastructure
-- verification and audit layers
-- workflow hardening
-- transition-sensitive service systems
+Use this account as the public operating surface for Pretty Busy Solutions systems, controls, and execution design.
 
-To route an inquiry or initiate scope:
-**prettybusysolutions@gmail.com**
+For scope, audit, or collaboration: **prettybusysolutions@gmail.com**
